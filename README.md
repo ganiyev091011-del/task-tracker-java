@@ -10,4 +10,4 @@ This is my first Java project.
 - Mark tasks as in process
 
 ## Project URL:
-https://github.com/ganiyev091011-del/task-tracker-java
+https://github.com/ganiyev091011-del/task-tracker-java/tree/main
